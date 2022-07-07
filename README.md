@@ -1,4 +1,4 @@
-🎇 console.log("Hello World) 🎇
+🎇 console.log("Hello World") 🎇
 
 👋 Hi, I’m Esteban Pastor.
 
