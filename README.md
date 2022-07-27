@@ -1,10 +1,10 @@
-🎇 console.log("Hello World") 🎇
+🎇console.log("Hello World")🎇
 
 👋 Hi, I’m Esteban Pastor.
 
 - 📍 I'm from Argentina. 
 - 📚 I’m interested in learn JS and ReactJS.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about whatever you want...
 - 📫 How to reach me: estebanandrespastor@gmail.com
 
