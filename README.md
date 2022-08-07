@@ -11,4 +11,4 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=estebanpastor)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estebanpastor&show_icons=true&theme=dracula)
