@@ -12,4 +12,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstebanPastor &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estebanpastor &theme=radical)
