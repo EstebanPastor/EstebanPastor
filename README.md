@@ -2,7 +2,7 @@
 
 ¡Hi, I’m Esteban Pastor!
 
-<a href="https://www.linkedin.com/in/estebanandrespastor/"></a>
+
  
 ✔ 📍 I'm from Argentina. 
 ✔ 📚 I’m interested in learn JS and React.JS.
@@ -11,8 +11,8 @@
 ✔ 📫 How to reach me: estebanandrespastor@gmail.com
 
 
-Linkedin:
-<
+Linkedin: <a href="https://www.linkedin.com/in/estebanandrespastor/"></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estebanpastor&show_icons=true&theme=dracula)
 
