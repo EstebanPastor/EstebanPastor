@@ -11,5 +11,4 @@
 
 
 
-
-![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=estebanpastor &theme=dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=estebanpastor)]
