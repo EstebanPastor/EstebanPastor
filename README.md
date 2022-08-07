@@ -8,3 +8,8 @@
 - 💬 Ask me about whatever you want...
 - 📫 How to reach me: estebanandrespastor@gmail.com
 
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstebanPastor &theme=radical)
