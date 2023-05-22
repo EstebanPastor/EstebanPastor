@@ -4,7 +4,7 @@
 
 ✔ 🌍 I'm from Argentina. 
 
-✔ 🌱 I’m currently learning React.JS.
+✔ 🌱 I’m always learning.
 
 ✔ 🧠 How to reach me: estebanandrespastor@gmail.com
 
