@@ -22,7 +22,6 @@
           
 
 
-![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=estebanpastor&show_icons=true&theme=dracula)
 
 
 
