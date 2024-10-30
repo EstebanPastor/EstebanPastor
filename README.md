@@ -8,7 +8,7 @@
 
 ✔ 🧠 How to reach me: <a href="mailto:estebanandrespastor@gmail.com" target="_blank">estebanandrespastor@gmail.com</a>
 
-✔ 👨🏻‍💻 My personal portfolio: <a href="https://estebanpastorportfolio.vercel.app/" target="_blank">https://estebanpastorportfolio.vercel.app/</a>
+✔ 👨🏻‍💻 My personal portfolio: <a href="https://estebanpastorportfolio.vercel.app/" target="_blank" rel="noreferrer">https://estebanpastorportfolio.vercel.app/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
