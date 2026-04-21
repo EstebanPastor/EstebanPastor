@@ -39,19 +39,65 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br>React
     </td>
     <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/><br>Next.js
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/><br>Angular
+    </td>
+    <td align="center" width="70">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/><br>Redux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br>Node.js
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/><br>NestJS
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br>Express
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/><br>GraphQL
     </td>
     <td align="center" width="70">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br>Bootstrap
     </td>
     <td align="center" width="70">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><br>Tailwind
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br>Tailwind
     </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/><br>Material UI
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br>Git
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="70">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL
     </td>
     <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br>PostgreSQL
+    </td>
+    <td align="center" width="70">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br>MongoDB
+    </td>
+    <td align="center" width="70">
+      <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" height="40"/><br>Prisma
+    </td>
+    <td align="center" width="70">
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/><br>AWS
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/><br>PHP
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/><br>Laravel
     </td>
   </tr>
 </table>
